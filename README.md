@@ -1,16 +1,15 @@
-### Hi there 👋
+### An Nyeong
 
-<!--
-**nyeong/nyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- intersted: web backend, dev-env, tools.
+- languages: English, Korean(원어민), Esperanto(iomete).
+- programming languages: Elixir(learning), Rust(learning).
 
-Here are some ideas to get you started:
+### Repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [hanassig]: notes about what I learned. (ko)
+- [.dotfiles]: config files for dev-env. (zsh, editor, git, etc)
+- [nth-week-today]: A website presenting the week number. (ko)
+
+[hanassig]: https://github.com/nyeong/hanassig
+[.dotfiles]: https://github.com/nyeong/.dotfiles
+[nth-week-today]: https://github.com/nyeong/nth-week-today
