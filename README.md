@@ -3,6 +3,9 @@
 - intersted: web backend, dev-env, tools.
 - languages: English, Korean(원어민), Esperanto(iomete).
 - programming languages: Elixir(learning), Rust(learning).
+- blog: [annyeong.me]
+
+[annyeong.me]: https://annyeong.me
 
 ### Repos
 
