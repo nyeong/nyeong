@@ -3,9 +3,9 @@
 - intersted: web backend, dev-env, tools.
 - languages: English, Korean(원어민), Esperanto(iomete).
 - programming languages: Elixir(learning), Rust(learning).
-- blog: [annyeong.me]
+- log: [hanassig]
 
-[annyeong.me]: https://annyeong.me
+[hanassig]: https://github.com/nyeong/hanassig
 
 ### Repos
 
