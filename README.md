@@ -13,8 +13,10 @@
 - [hanassig]: notes about what I've learned. (ko)
 - [.dotfiles]: configuration files for my development environments. (zsh, editor, git, etc)
 - [nth-week-today]: a website presenting the week number. (ko)
-- [realworld-elixir]: blog clone coding project
+- [realworld-elixir]: blog clone coding project.
+- [playground]: code snippets for problem solving or proof of concepts.
 
 [.dotfiles]: https://github.com/nyeong/.dotfiles
 [nth-week-today]: https://github.com/nyeong/nth-week-today
 [realworld-elixir]: https://github.com/nyeong/realworld-elixir
+[playground]: https://github.com/nyeong/playground
