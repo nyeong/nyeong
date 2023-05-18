@@ -13,6 +13,8 @@
 - [hanassig]: notes about what I learned. (ko)
 - [.dotfiles]: config files for dev-env. (zsh, editor, git, etc)
 - [nth-week-today]: a website presenting the week number. (ko)
+- [realworld-elixir]: blog clone coding project
 
 [.dotfiles]: https://github.com/nyeong/.dotfiles
 [nth-week-today]: https://github.com/nyeong/nth-week-today
+[realworld-elixir]: https://github.com/nyeong/realworld-elixir
