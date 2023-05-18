@@ -1,17 +1,17 @@
 ### An Nyeong
 
-- intersted: web backend, dev-env, tools, keyboards, etc.
+- intersts: Web backend engineering, development environments, keyboards, etc.
 - languages: English, Korean(원어민), Esperanto(iomete).
 - programming languages: Elixir(learning), Rust(learning).
-- log: [hanassig] or [hanassig-pub]
+- log: [hanassig] or [hanassig-pub].
 
 [hanassig]: https://github.com/nyeong/hanassig
 [hanassig-pub]: https://annyeong.me/
 
 ### Repos
 
-- [hanassig]: notes about what I learned. (ko)
-- [.dotfiles]: config files for dev-env. (zsh, editor, git, etc)
+- [hanassig]: notes about what I've learned. (ko)
+- [.dotfiles]: configuration files for my development environments. (zsh, editor, git, etc)
 - [nth-week-today]: a website presenting the week number. (ko)
 - [realworld-elixir]: blog clone coding project
 
