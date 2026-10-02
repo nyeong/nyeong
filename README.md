@@ -1,5 +1,10 @@
-### An Nyeong
+### An Nyeong(安寧)
 
-- interests: Web backend engineering, development environments, keyboards, etc.
-- languages: Korean(원어민), English(broken), Japanese(少し), Esperanto(iomete).
-- programming languages: Elixir(learning), Rust(learning).
+I like understanding how my tools work and making them fit the way I think.
+
+- building: [maki], a markup tool for my notes and writing.
+- tinkering with: developer tools, reproducible environments, and self-hosted services.
+- interests: tools, web backend engineering, keyboards, and languages (human and computer).
+- languages: Korean(원어민), English(totally broken), Japanese(ほぼ少し), Esperanto(tre iomete).
+
+[maki]: https://github.com/nyeong/maki
