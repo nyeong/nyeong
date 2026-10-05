@@ -1,6 +1,6 @@
-### An Nyeong(安寧)
+### An Nyeong (安寧)
 
-I like understanding how my tools work and making them fit the way I think.
+I enjoy getting to the heart of a problem and solving it with the right tools.
 
 - building: [maki], a markup tool for my notes and writing.
 - tinkering with: developer tools, reproducible environments, and self-hosted services.
